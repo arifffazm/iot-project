@@ -1,18 +1,16 @@
-\# SEEL 4213 IoT Project
+# SEEL 4213 IoT Project
 
 
 
-\## Group name
+## Group name
 
-Jack Sparrow
+*Jack Sparrow*
 
 
 
-\## Group members
+## Group members
 
-1\. MUHAMMAD FARIS BIN ZUBIR
-
-2\. GIRI MUNAN ANAK HENRY GASAH
-
-3\. MUHAMMAD NOR ARIF BIN MOHD AZAM
+1. MUHAMMAD FARIS BIN ZUBIR
+2. GIRI MUNAN ANAK HENRY GASAH
+3. MUHAMMAD NOR ARIF BIN MOHD AZAM
 
