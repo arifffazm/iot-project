@@ -1,14 +1,8 @@
 \# SEEL 4213 IoT Project
 
-\*\*This is the overview for SEEL 4213 IoT Project\*\*
-
-
-
 \## Group name
 
-\*Jack Sparrow\*
-
-
+Jack Sparrow
 
 \## Group members
 
