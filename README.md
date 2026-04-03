@@ -1,10 +1,21 @@
 \# SEEL 4213 IoT Project
-\*This is the overview for SEEL 4213 IoT Project\*
+
+
+\*\*This is the overview for SEEL 4213 IoT Project\*\*
+
+
 
 \## Group name
 
-\*Jack Sparrow\* 
-## Group members
+
+
+\*Jack Sparrow\*
+
+
+
+\## Group members
+
+&#x20;
 
 1\. MUHAMMAD FARIS BIN ZUBIR
 
